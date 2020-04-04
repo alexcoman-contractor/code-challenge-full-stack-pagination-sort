@@ -1,4 +1,3 @@
-# Nixa.io Full-stack test
-My code for nixa.io full-stack (PHP, React, SQL) test
+# Code challenge - Full-stack
 
 Unfortunately I had no experience with React so I had to learn the basics during the test
